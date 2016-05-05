@@ -5,6 +5,12 @@
   width: auto;
   height: 350px;
 }
+.profile-img {
+  width: auto;
+  height: 350px;
+  border-radius: 50%;
+  border: solid black 5px;
+}
 
 .mission-statement {
   font-weight: bold;
