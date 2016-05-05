@@ -7,3 +7,16 @@
   width: auto;
   height: 350px;
 }
+
+.mission-statement {
+  font-weight: bold;
+}
+h1 {
+  font-size: 38px;
+}
+h2 {
+  font-size: 28px;
+}
+.callout {
+  color: cyan;
+}
